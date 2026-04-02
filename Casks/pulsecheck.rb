@@ -1,6 +1,6 @@
 cask "pulsecheck" do
-  version "1.0"
-  sha256 "5373503d0b05f0b1f47954d2e14e3177aabd615e0a72a1b3509e2af25966a064"
+  version "1.1"
+  sha256 "b47cd87266251bec1d259bea73230c9d9497e10560bdb26dc8436c2012fbe489"
 
   url "https://github.com/Captnjo/pulsecheck/releases/download/v#{version}/PulseCheck-#{version}.dmg"
   name "PulseCheck"
